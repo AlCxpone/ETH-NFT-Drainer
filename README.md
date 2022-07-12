@@ -21,7 +21,7 @@ you need to edit the **settings.js** file.
 ## `🌊 Socials`
 
 - Telegram: termed, soon
-- Instagram: https://instagram.com/clyde.nft
+- Instagram: https://instagram.com/clyde.nft (Contact me here)
 - Group: https://t.me/nftstealer
 
 ##### Please ⭐ the repo to support this project & follow next updates
